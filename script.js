@@ -1,5 +1,5 @@
 
-var api = "https://api.darksky.net/forecast/[8322c6517b7963c16f833cce8b96c129]/[latitude],[longitude]";
+var api = "https://api.darksky.net/forecast/[8322c6517b7963c16f833cce8b96c129]";
 var lat, lon;
 var tempUnit = 'C';
 var currentTempInCelsius;
